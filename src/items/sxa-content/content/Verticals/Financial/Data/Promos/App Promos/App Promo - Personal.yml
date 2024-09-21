@@ -13,26 +13,19 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "19611527-1e31-4490-8042-482e61e3ce84"
       Hint: Text
       Value: |
-        <p>Introducing your new financial companion for everyday help with saving, investing, bill payments and more.</p>
-        <div class="container">
-        <div class="row  row-gap-3">
-        <div class="col-sm">
-        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
-        <div class="col-sm">
-        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="Google Play" src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
-        <div class="col-sm">
-        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/3FB814AFD8E846FF9BFD4312B2213EC4.ashx?h=44&amp;w=150" style="height: 44px; width: 150px;" /></a></div>
-        </div>
-        </div>
+        <div class="ck-content"><p>Introducing your new e-learning app.</p><div class="container"><div class="row row-gap-3"><div class="col-sm"><a href="http://www.sitecore.com" target="_blank" rel="noopener noreferrer"><img src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=46&amp;w=150" alt="" width="150" height="46" /></a></div><div class="col-sm"><a href="http://www.sitecore.com" target="_blank" rel="noopener noreferrer"><img src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" alt="Google Play" width="150" height="46" /></a></div><div class="col-sm">&nbsp;</div></div></div></div>
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
-      Value: Say hello to convenient banking with our mobile application
+      Value: Say hello to coding on the go
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4697bc62-b1d6-4131-8964-e2c6072b9d8a"
+      Value: "dbdf3484-d4d0-41a3-9b95-6191907ac07f"
 - Language: "fr-CA"
   Versions:
   - Version: 1
