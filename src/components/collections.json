@@ -153,34 +153,7 @@
           "givenName": "Bradley",
           "familyName": "Thomsen"
         },
-        "bundles": [
-          {
-            "id": "LfjOOOh35x",
-            "libraryId": "generated",
-            "componentId": "STiD01v3L0",
-            "name": "CodeWin",
-            "description": "",
-            "breakpoints": {
-              "small": "dTbOEuFm1E",
-              "medium": "dTbOEuFm1E",
-              "xsmall": "dTbOEuFm1E"
-            },
-            "orderIdx": "",
-            "createdAt": "2024-09-20T21:29:04.537Z",
-            "modifiedAt": "2024-09-20T21:29:04.537Z"
-          },
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "STiD01v3L0",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-20T15:58:53.307Z",
-            "modifiedAt": "2024-09-20T15:58:53.307Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -194,7 +167,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-09-20T20:39:22.136Z",
-        "stagedAt": "2024-09-20T21:17:56.07Z",
+        "stagedAt": null,
         "publishedAt": "2024-09-20T21:17:56.07Z",
         "modifiedAt": "2024-09-20T21:20:59.767Z",
         "modifiedBy": {
@@ -205,19 +178,7 @@
           "givenName": "Bradley",
           "familyName": "Thomsen"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "D85cbP8H01",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-20T20:39:44.264Z",
-            "modifiedAt": "2024-09-20T20:39:44.264Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
