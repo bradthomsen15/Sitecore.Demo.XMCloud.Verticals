@@ -9,10 +9,9 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
  
 interface Fields {
-  PromoIcon: ImageField;
-  PromoText: Field<string>;
-  PromoLink: LinkField;
-  PromoText2: Field<string>;
+  MainContentImage: ImageField;
+  Title: Field<string>;
+  Paragraph: LinkField;
 }
  
 type ComponentProps = {
@@ -26,18 +25,17 @@ export const FirstCodedComponent = (props: ComponentProps): JSX.Element => {
     return (
       <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
         <div className="component-content">
-          <div className="field-promoicon">
-            <JssImage field={props.fields.PromoIcon} />
+          <div className="field-maincontentimage">
+            <JssImage field={props.fields.MainContentImage} />
           </div>
           <div className="promo-text">
             <div>
-              <div className="field-promotext">
-                <JssRichText field={props.fields.PromoText} />
-                <JssRichText field={props.fields.PromoText2} />
+              <div className="field-title">
+                <JssRichText field={props.fields.Title} />
               </div>
             </div>
-            <div className="field-promolink">
-              <JssLink field={props.fields.PromoLink} />
+            <div className="field-paragraph">
+              <JssLink field={props.fields.Paragraph} />
             </div>
           </div>
         </div>
