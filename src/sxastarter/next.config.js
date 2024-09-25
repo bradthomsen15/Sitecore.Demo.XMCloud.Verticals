@@ -56,6 +56,16 @@ const nextConfig = {
         hostname: 'feaas*.blob.core.windows.net',
         port: '',
       },
+      {
+        protocol: 'https',
+        hostname: 'https://edge.sitecorecloud.io',
+        port: '',
+      },
+      {
+        protocol: 'https',
+        hostname: 'brtb-vert-lab2-github-a7v3w3nluk21xz5qnkbfg-basic.vercel.app',
+        port: '',
+      },
     ]
   },
 
