@@ -1,0 +1,16 @@
+﻿---
+ID: "7845cc2a-70e0-4ed6-8025-189ecbcec4b4"
+Parent: "e80b2eb2-f3c4-4c86-b76c-041808116d0e"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/Verticals/Financial/Data/Promos/BradsTestPromo111
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: This is test text
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3aae4c60-7df9-42f6-bf64-72cb3fda825d"

@@ -1,0 +1,20 @@
+﻿---
+ID: "899be44e-776b-4f7c-86df-ae489bf9643e"
+Parent: "68047786-3615-4311-b6c0-04b4cb67a59b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Verticals/Components/BradsTestTemplate/MainContent/Paragraph
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Multi-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc5f6561-aebe-4ced-a65b-b0abe6bfd289"

@@ -1,0 +1,13 @@
+﻿---
+ID: "70722776-844b-47d1-a8e8-3c8e392986c1"
+Parent: "b08ab895-a62c-4ea8-9c33-a53916a6dd2c"
+Template: "070e075d-0745-45f6-8306-596db104987f"
+Path: /sitecore/content/Verticals/Financial/Data/BradsStuff/ContentItem1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4d7accb-8bb7-4990-bef4-5e058a6a585f"
