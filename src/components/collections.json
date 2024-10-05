@@ -132,6 +132,43 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "D85cbP8H01",
+        "collectionId": "default",
+        "name": "Coding Projects Ex",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-09-20T20:39:22.136Z",
+        "stagedAt": "2024-10-04T16:57:47.279Z",
+        "publishedAt": "2024-10-04T16:57:47.279Z",
+        "modifiedAt": "2024-10-04T18:00:08.216Z",
+        "modifiedBy": {
+          "id": "669ec0a9185148e07de6007b",
+          "name": "Bradley Thomsen",
+          "email": "brad.thomsen@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0a8d797fe3ca3b11de31263e139c4a70?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbt.png",
+          "givenName": "Bradley",
+          "familyName": "Thomsen"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "D85cbP8H01",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-10-04T16:44:59.949Z",
+            "modifiedAt": "2024-10-04T16:44:59.949Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "STiD01v3L0",
         "collectionId": "default",
         "name": "code.org hero",
@@ -145,31 +182,6 @@
         "stagedAt": "2024-09-20T21:30:57.55Z",
         "publishedAt": "2024-09-20T21:30:57.55Z",
         "modifiedAt": "2024-09-20T21:34:43.728Z",
-        "modifiedBy": {
-          "id": "669ec0a9185148e07de6007b",
-          "name": "Bradley Thomsen",
-          "email": "brad.thomsen@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/0a8d797fe3ca3b11de31263e139c4a70?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbt.png",
-          "givenName": "Bradley",
-          "familyName": "Thomsen"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "D85cbP8H01",
-        "collectionId": "default",
-        "name": "Coding Projects Ex",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-09-20T20:39:22.136Z",
-        "stagedAt": null,
-        "publishedAt": "2024-09-20T21:17:56.07Z",
-        "modifiedAt": "2024-09-20T21:20:59.767Z",
         "modifiedBy": {
           "id": "669ec0a9185148e07de6007b",
           "name": "Bradley Thomsen",
