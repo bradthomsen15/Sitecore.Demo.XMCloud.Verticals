@@ -142,7 +142,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-09-20T20:39:22.136Z",
-        "stagedAt": "2024-10-04T16:57:47.279Z",
+        "stagedAt": null,
         "publishedAt": "2024-10-04T16:57:47.279Z",
         "modifiedAt": "2024-10-04T18:00:08.216Z",
         "modifiedBy": {
@@ -153,19 +153,7 @@
           "givenName": "Bradley",
           "familyName": "Thomsen"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "D85cbP8H01",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-10-04T16:44:59.949Z",
-            "modifiedAt": "2024-10-04T16:44:59.949Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
