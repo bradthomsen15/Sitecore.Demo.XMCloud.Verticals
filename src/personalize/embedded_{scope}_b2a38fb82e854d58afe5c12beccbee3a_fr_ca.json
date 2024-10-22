@@ -4,8 +4,8 @@
   "ref": "4295c8bc-60c3-455d-ad90-3194636a146c",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_fr_ca",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-10-18T17:55:16.81Z",
-  "revision": 36,
+  "modifiedAt": "2024-10-21T16:18:25.913Z",
+  "revision": 38,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_fr_ca",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-10-18T17:55:16.976Z",
+    "modifiedAt": "2024-10-21T16:18:25.931Z",
     "splits": [
       {
         "template": "{\"variantId\": \"517ebf003adb4815a4658b88f3e68bd6\"}",
@@ -119,7 +119,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "b8133204-87a8-456a-bee0-988de9a1da76",
+      "ref": "d7629c52-86c4-45dc-9328-6d1fa7d37976",
       "name": "Retirement Page View",
       "tasks": [
         {
